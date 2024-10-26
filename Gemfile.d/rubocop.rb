@@ -20,7 +20,7 @@
 # these gems are separate from test.rb so that we can treat it as a dedicated
 # Gemfile for script/rlint, and it will run very quickly.
 
-source "https://rubygems.org/"
+source "https://gems.ruby-china.com/"
 
 group :test do
   gem "colorize", "~> 1.0", require: false

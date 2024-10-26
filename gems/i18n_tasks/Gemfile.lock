@@ -23,7 +23,7 @@ PATH
       utf8_cleaner
 
 GEM
-  remote: https://rubygems.org/
+  remote: https://gems.ruby-china.com/
   specs:
     activesupport (7.1.3)
       base64

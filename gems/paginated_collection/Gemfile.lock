@@ -6,7 +6,7 @@ PATH
       will_paginate (>= 3.0, < 5.0)
 
 GEM
-  remote: https://rubygems.org/
+  remote: https://gems.ruby-china.com/
   specs:
     diff-lcs (1.5.1)
     folio-pagination (0.0.12)

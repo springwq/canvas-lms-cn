@@ -4,7 +4,7 @@ PATH
     stringify_ids (1.0.0)
 
 GEM
-  remote: https://rubygems.org/
+  remote: https://gems.ruby-china.com/
   specs:
     diff-lcs (1.5.1)
     rspec (3.13.0)

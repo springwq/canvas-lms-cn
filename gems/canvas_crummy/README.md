@@ -1,7 +1,7 @@
 h1. CanvasCrummy
 
 This is a fork of an early version of the crummy gem.
-http://rubygems.org/gems/crummy
+http://gems.ruby-china.com/gems/crummy
 
 TODO: use a more current version of the gem instead of this forked one
 
@@ -44,17 +44,17 @@ In your controllers you may add_crumb either like a before_filter or within a me
     class ApplicationController
       add_crumb "Home", '/'
     end
-    
+
     class BusinessController < ApplicationController
       add_crumb("Businesses") { |instance| instance.send :businesses_path }
       add_crumb("Comments", :only => "comments") { |instance| instance.send :businesses_comments_path }
       before_filter :load_comment, :only => "show"
       add_crumb :comment, :only => "show"
-  
+
       def show
         add_crumb @business.display_name, @business
       end
-      
+
       def load_comment
         @comment = Comment.find(params[:id])
       end
@@ -86,7 +86,7 @@ The seperator text. It does not assume you want spaces on either side so you mus
 
 Render links in the output. Defaults to +true+
 
-<code>:link => boolean</code>        
+<code>:link => boolean</code>
 
 h3. Examples
 

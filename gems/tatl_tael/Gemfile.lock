@@ -4,7 +4,7 @@ PATH
     tatl_tael (0.0.1)
 
 GEM
-  remote: https://rubygems.org/
+  remote: https://gems.ruby-china.com/
   specs:
     diff-lcs (1.5.1)
     fakefs (1.9.0)

@@ -4,7 +4,7 @@ PATH
     canvas_mimetype_fu (0.0.1)
 
 GEM
-  remote: https://rubygems.org/
+  remote: https://gems.ruby-china.com/
   specs:
     diff-lcs (1.5.1)
     docile (1.4.1)

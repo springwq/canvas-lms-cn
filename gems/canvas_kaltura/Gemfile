@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-source "https://rubygems.org"
+source "https://gems.ruby-china.com"
 
 gem "canvas_cache", path: "../canvas_cache"
 gem "canvas_http", path: "../canvas_http"

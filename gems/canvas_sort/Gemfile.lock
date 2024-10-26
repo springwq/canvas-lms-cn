@@ -4,7 +4,7 @@ PATH
     canvas_sort (1.0.0)
 
 GEM
-  remote: https://rubygems.org/
+  remote: https://gems.ruby-china.com/
   specs:
     diff-lcs (1.5.1)
     rake (13.2.1)

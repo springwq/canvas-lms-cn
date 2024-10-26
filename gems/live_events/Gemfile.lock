@@ -7,7 +7,7 @@ PATH
       inst_statsd
 
 GEM
-  remote: https://rubygems.org/
+  remote: https://gems.ruby-china.com/
   specs:
     activemodel (7.1.3)
       activesupport (= 7.1.3)

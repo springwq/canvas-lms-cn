@@ -37,7 +37,7 @@ PATH
       legacy_multipart
 
 GEM
-  remote: https://rubygems.org/
+  remote: https://gems.ruby-china.com/
   specs:
     actionpack (7.1.3)
       actionview (= 7.1.3)

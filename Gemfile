@@ -9,7 +9,7 @@
 # merge with canvas-lms
 #
 
-source "https://rubygems.org/"
+source "https://gems.ruby-china.com/"
 
 # cleanup local envs automatically from the old plugin
 Plugin.uninstall(["bundler_lockfile_extensions"], {}) if Plugin.installed?("bundler_lockfile_extensions")

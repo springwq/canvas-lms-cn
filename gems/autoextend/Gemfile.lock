@@ -4,7 +4,7 @@ PATH
     autoextend (1.0.0)
 
 GEM
-  remote: https://rubygems.org/
+  remote: https://gems.ruby-china.com/
   specs:
     debug (1.9.2)
       irb (~> 1.10)
